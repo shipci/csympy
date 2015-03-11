@@ -9,7 +9,6 @@ env:
   ## bin/test_travis.sh script usually checks for either "yes" or "no" in an if
   ## statement, so if the variable is not set, the other if branch will get
   ## executed.
-
   ## Out of tree builds (default):
   # Debug build
   - BUILD_TYPE="Debug"
